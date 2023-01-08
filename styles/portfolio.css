@@ -1,0 +1,173 @@
+*{
+    font-family: <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans:wght@700&display=swap" rel="stylesheet">;
+}
+
+/* header styles */
+
+.header-title{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    margin: 216px, 0px, 845px, 230px
+}
+.header-description{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    margin: 0px,262px, 876px, 230px
+}
+.header-btn{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 1236px;
+    top: 599px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #005FAC;
+}
+
+/* Failure Section styles */
+
+.failure-image{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px
+}
+.failure-content{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 922px;
+    top: 1162px;
+}
+.failure-title{
+    width: 288px;
+    height: 94px;
+    left: 922px;
+    top: 1162px;
+
+    color: #151414;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.failure-description{
+    width: 416px;
+    height: 104px;
+    left: 922px;
+    top: 1280px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+.failure-list{
+    width: 349px;
+    height: 162px;
+    left: 922px;
+    top: 1400px;
+    color: #444343;
+}
+
+/* Plans Section Styles */
+.plan-title{
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 500px;
+    top: 1792px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.plan-elements{
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 197px;
+left: 230px;
+top: 1889px;
+}
+.plan-element{
+width: 218px;
+height: 197px;
+left: 853px;
+top: 1889px;
+}
+
+.mindset{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+border-radius: 8px;
+}
+
+
+/* section future styles */
+.future-content{
+    
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2651.96px;
+
+background: #151414;
+color: #FFFFFF;
+
+}
+
+.future-title{
+    color: #F8F8F8;
+}
+.li-images{
+    display: flex;
+    list-style: none;
+}
+.future-description{
+    width: 485px;
+height: 78px;
+left: 230px;
+top: 2850.96px;
+}
+
+.subscribe{
+    margin: 100px 500px 1000px 50px;
+    width: 325px;
+height: 204px;
+left: 1046px;
+top: 2781.96px
+}
